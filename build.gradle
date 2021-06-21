@@ -147,7 +147,7 @@ dependencies {
     implementation('org.cloudfoundry:cloudfoundry-operations:5.5.0.RELEASE')
     implementation('io.micrometer:micrometer-registry-prometheus')
     testImplementation('io.projectreactor:reactor-test')
-    testImplementation('org.assertj:assertj-core:3.19.0')
+    testImplementation('org.assertj:assertj-core:3.20.2')
     testImplementation('org.junit.jupiter:junit-jupiter-api')
     testImplementation('org.junit.jupiter:junit-jupiter-params')
     testRuntimeOnly('org.junit.jupiter:junit-jupiter-engine')
